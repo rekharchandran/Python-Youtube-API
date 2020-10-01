@@ -7,5 +7,5 @@ Google Developers Console - https://console.developers.google.com/
 Google API Python Client - https://github.com/googleapis/google-api-python-client
 
 
-YouTube API - https://developers.google.com/youtube/v3
+
 
